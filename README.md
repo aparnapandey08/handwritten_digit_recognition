@@ -26,15 +26,9 @@ To train the model and perform handwritten digit recognition, follow these steps
 
 1. Clone the repository:
 
-
 2. Navigate to the project directory:
 
-
 3. Run the `hd.py` script:
-
-
-3. Run the `hd.py` script:
-
 
 4. The script will prompt you to draw a digit. A separate window will open where you can use your mouse to draw a digit. Once you release the mouse button, the window will close, and the script will recognize the drawn digit.
 
